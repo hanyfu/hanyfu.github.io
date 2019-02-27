@@ -1,0 +1,27 @@
+<packageInfo>
+    <bundleId>com.awiirepo.chinacat</bundleId>
+    <name>Chinacat Ios 11</name>
+    <version>0.0.1</version>
+    <descriptions>
+        <description>
+            font Chinacat ios 11 use with bytafont3
+        </description>
+        <description>
+            work with all mode 
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>11.4.0</maxiOS>
+    </compatibility>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.1 </changeVersion>
+            <changeDescription>initial release</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
