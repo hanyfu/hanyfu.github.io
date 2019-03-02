@@ -1,0 +1,21 @@
+Package: com.mdausch.exampletweak
+Name: ExampleTweak
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An example package for testing out our personal Cydia repository
+Depiction: https://mdausch.github.io/depictions/?p=com.mdausch.exampletweak
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
+
+Package: com.mdausch.exampletweak-copy
+Name: ExampleTweak
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An example package for testing out our personal Cydia repository
+Depiction: https://mdausch.github.io/depictions/?p=com.mdausch.exampletweak-copy
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
