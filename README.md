@@ -1,4 +1,4 @@
-# fidele007 Repo
-fidele007's Cydia repository for "beta" tweaks and stuff
+Mohamed Haneef's Personal Repo
+hanyfu's Cydia repository for "Fonts and Tweaks
 
-Sadly GitHub only supports static pages :(
+
