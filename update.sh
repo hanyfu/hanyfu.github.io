@@ -3,9 +3,11 @@ rm -r Packages
 rm -r Packages.bz2
 rm -r Packages.gz
 
+
+
 echo Creating New Packages file
-dpkg-scanpackages -m ./debfiles/ /dev/null >Packages
+dpkg-scanpackages ./debs > Packages
+bzip2 -fks Packages
 
 echo Compressing New Packages List
-Bzip2 -fks Packages
 gzip -c Packages > Packages.gz
