@@ -1,11 +1,11 @@
 Origin: hanyfu's Repo
-Label: hanyfu
+Label: julioverne
 Suite: stable
 Version: 1.0
-Codename: hanyfu
+Codename: julioverne
 Architecture: iphoneos-arm
 Components: main
 Description: hanyfu's Tweaks
 MD5Sum:
- c09ff31392c7691b9ace607d252794d4 50949 Packages
- 0750a662b2fc2589f767903d86804fad 8414 Packages.bz2
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
