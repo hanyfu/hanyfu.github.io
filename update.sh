@@ -6,7 +6,7 @@ rm -r Packages.gz
 
 
 echo Creating New Packages file
-dpkg-scanpackages ./debs > Packages
+dpkg-scanpackages ./debs >Packages
 bzip2 -fks Packages
 
 echo Compressing New Packages List
