@@ -2,7 +2,7 @@ Package: io.hanyfu.minivan50
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: hanyfu<hanyfu@hotmail.com>
-Filename: /Minivan50.deb
+Filename: /debs/io.hanyfu.minivan50.deb
 Size: 10862
 MD5sum: fc3d15f90a4a053ca4bbe4f30f272f7a
 SHA1: bc8902c08a5676d74f9f624eab5cdd8b39810e76
@@ -12,11 +12,11 @@ Description: An awesome mobile substrate tweak
 Author: hanyfu<hanyfu@hotmail.com>
 Name: Minivan 50 alkaline Tweak
 
-Package: io.hanyfu.Dhiraagu
+Package: io.hanyfu.DhiraaguOld
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: hanyfu<hanyfu@hotmail.com>
-Filename: /Dhiraagu Old.deb
+Filename: /debs/io.hanyfu.DhiraaguOld.deb
 Size: 10938
 MD5sum: f0b4ca4bd07f6529138049f6014f42c6
 SHA1: 643649759f605cb83a01e10792dc5b10cb5d6e08
