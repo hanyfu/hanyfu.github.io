@@ -1,11 +1,8 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
-Codename: julioverne
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
-MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
- 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
+Description: Reposi3 - a cydia repo template
