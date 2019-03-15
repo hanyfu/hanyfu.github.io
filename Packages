@@ -33,3 +33,14 @@ Description: Bytafont TweakMode Font for My personal use, dont download
 Name: Stylus ITC
 Author: hanyfu
 
+Package: com.yourepo.hanyfu.stylusitcfont
+Version: 1.0
+Section: Fonts
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.stylusitcfont_1.0_iphoneos-arm.deb
+Size: 8776756
+MD5sum: 097250e3ebf0ed0a011c7446ba6e9054
+Description: Stylus ITC Font for bytafont 3m not a tweak mode , iOS 8 and 9
+Name: Stylus ITC Font
+Author: hanyfu <antikilerz@hotmail.com>
+
