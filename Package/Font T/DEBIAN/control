@@ -1,0 +1,10 @@
+Package: io.hanyfu.robro
+Name: Robro Font
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BytaFont Tweakmode font
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.robro
+Homepage: http://www.hanyfu.info
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Author: Mohamed Haneef <hanyfu@hotmail.com>
+Section: Fonts
