@@ -1,38 +1,23 @@
 <package>
-	<id>io.hanyfu.robro</id>
-	<name>Robro Font</name>
-	<version>1.0</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package> </package>
-	</dependencies>
-	<shortDescription>This is a TweakMode font for BytaFont, </shortDescription>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
-		]]>
-		</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>Robro Fonts For TweakMode on BytaFont</description>
-			<image>cydia.jpg</image>
-		</screenshot>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
