@@ -1,7 +1,7 @@
 <package>
 	<id>io.hanyfu.robro</id>
-	<name>Font Robro</name>
-	<version>0.1</version>
+	<name>Robro Font</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS></miniOS>
