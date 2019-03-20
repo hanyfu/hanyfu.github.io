@@ -50,11 +50,11 @@ Section: Fonts
 Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
 Architecture: iphoneos-arm
 Filename: debs//io.hanyfu.robro.deb
-Size: 673212
-MD5sum: ac7ffeeaf401e264ecd65d5abb06c815
+Size: 963586
+MD5sum: 00738c79ed6f76ad72ba4e1e601b9e27
 Description: BytaFont Tweakmode font
 Name: Robro Font
 Author: Mohamed Haneef <hanyfu@hotmail.com>
 Homepage: http://www.hanyfu.info
-Depiction: http://hanyfu.github.io//depictions/?p=io.hanyfu.robro
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.robro
 
