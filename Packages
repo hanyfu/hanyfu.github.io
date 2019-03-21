@@ -44,6 +44,20 @@ Description: Stylus ITC Font for bytafont 3m not a tweak mode , iOS 8 and 9
 Name: Stylus ITC Font
 Author: hanyfu <antikilerz@hotmail.com>
 
+Package: io.hanyfu.Nunito
+Version: 1.0
+Section: Fonts
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//io.hanyfu.Nunito.deb
+Size: 161608
+MD5sum: 73f1f97de1d72fe760be925f67c29066
+Description: BytaFont Tweakmode font
+Name: Nunito TM Font
+Author: Mohamed Haneef <hanyfu@hotmail.com>
+Homepage: http://www.hanyfu.info
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.Nunito
+
 Package: io.hanyfu.robro
 Version: 1.0
 Section: Fonts
