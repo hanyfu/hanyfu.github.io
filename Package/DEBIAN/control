@@ -1,10 +1,10 @@
-Package: io.hanyfu.Nunito
-Name: Nunito TM Font
+Package: io.hanyfu.minivan50
+Name: Minivan 50 Zepplin logo
 Version: 1.0
 Architecture: iphoneos-arm
-Description: BytaFont Tweakmode font
-Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.Nunito
+Description: Maldives 50th independence day logo for zeppelin
+Depiction: http://hanyfu.github.io/depictions/?p=io.hanyfu.minivan50
 Homepage: http://www.hanyfu.info
 Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
 Author: Mohamed Haneef <hanyfu@hotmail.com>
-Section: Fonts
+Section: Addons (Zeppelin)
