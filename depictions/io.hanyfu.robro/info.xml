@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>io.hanyfu.robro</id>
+	<name>Robro TM Font</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,9 +13,12 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>TweakMode Bytafont3 </description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<description>Font sample</description>
+		<image>cydia.jpg</image>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
