@@ -1,9 +1,9 @@
-# Maxwell Dausch's Example Cydia Repository
+# Mohamed Haneef Repository
 
 This is a shell template for creating your own Cydia repository so you can host your own tweaks and themes
 
-The layout of this repo is very similar to the version I have running on my own repo, [mdaus.ch/repo](www.mdaus.ch/repo)
-I have uploaded a copy of this example repository to [mdausch.github.com](mdausch.github.com) if you want to test it out there as well, but I promise you as of right now at least, its going to look very similar to my main repo.
+The layout of this repo is very similar to the version I have running on my own repo,
+I have uploaded a copy of this example repository to [hanyfu.github.io](hanyfu.github.io) if you want to test it out there as well, but I promise you as of right now at least, its going to look very similar to my main repo.
 
 ## Prerequisites
 You will need a Mac or Linux system to create the repo on. This is possible using Windows, but is more tedious, and I will not be getting into it right now, this may be added later on though.
@@ -99,27 +99,27 @@ Lets dive right into some more configuration files. Here we have a control file.
 Below is the control file from the example tweak I have provided in this repo
 
 ```
-Package: com.mdausch.exampletweak
+Package: com.hanyfu.exampletweak
 Name: ExampleTweak
 Depends: mobilesubstrate
 Version: 0.0.2
 Architecture: iphoneos-arm
 Description: An example package for testing out our personal Cydia repository
-Depiction: https://mdausch.github.io/depictions/?p=com.mdausch.exampletweak
-Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://hanyfu.github.io/depictions/?p=com.hanyfu.exampletweak
+Maintainer: Mohamed Haneef <hanyfu@hotmail.com>
+Author: Mohamed Haneef <hanyfu@hotmail.com>
 Section: Tweaks
 ```
 
 Lets break down each of these fields:
 
-* **Package:** This is your tweaks bundle identifier. Bundle identifiers are usually written out in reverse DNS notation (I.e com.myCompany.myTweak). Take my main repo's bundle identifier for example `ch.mdaus.exampletweak` My domain name is [mdaus.ch](www.mdaus.ch) so when we reverse that we have ch.mdaus and then we just add on what we want our the package to be identified as.
+* **Package:** This is your tweaks bundle identifier. Bundle identifiers are usually written out in reverse DNS notation (I.e com.myCompany.myTweak). Take my main repo's bundle identifier for example `ch.hanyfu.exampletweak` My domain name is [hanyfu.info](www.hanyfu.info) so when we reverse that we have ch.mdaus and then we just add on what we want our the package to be identified as.
 * **Name:** This is just the name of our package. This is the what Cydia displays as the package name when you go to download it.
 * **Version:** This is simply the version number. This is how your users will know if there is an update for your package. If a user has version 1.0 installed, and your repo has version 1.0.1 being hosted, Cydia will show them that an update is available.
 * **Architecture:** You should NOT change this from `iphoneos-arm` This is the type of our package
 * **Description:** This is just a short description of the package.
 * **Depiction:** This is the link to a custom depiction page for the package. This is how people add screenshots and custom styling to the descriptions of packages in Cydia. If you provide a link here, the "Description" field in the control file is no longer displayed
-* **Maintainer:** This is the person who built the package. Issues with the packaging of the software should be sent to them. You can add their email by placing it in these brackets `<>`  For example `<max.dausch@gmail.com>` would show up in Cydia as the maintainer for my packages, allowing users to send issues over email.
+* **Maintainer:** This is the person who built the package. Issues with the packaging of the software should be sent to them. You can add their email by placing it in these brackets `<>`  For example `<hanyfu@hotmail.com>` would show up in Cydia as the maintainer for my packages, allowing users to send issues over email.
 * **Author:** This is the person who originally wrote the software. This is who should be contacted about bugs in the tweak or theme itself. You can add their email similarly to the maintainer field with these brackets `<>`
 * **Section:**  This is where your package will be displayed in Cydia. `Tweaks` will be placed in the tweaks category. `Games` will be placed in the games category. Feel free to make your own category for your repo if you want to
 
@@ -142,7 +142,7 @@ Depictions are a nice way of adding a bit of flair to your packages page in Cydi
 4. Open the info.xml file in a text editor of your choice and fill out the information as you see fit
 5. open your packages control file and add the depiction link into the depiction field. If this field is not already there, add it in. The link will look like similar to this, but with your own URL:
 ```
-http://mdaus.ch/repo/depictions/?p=ch.mdaus.exampletweak
+http://hanyfu.github.io/depictions/?p=com.hanyfu.exampletweak
 ```
 the important thing to note is that after you have the path to the depictions folder set up, you need to add the
 ```
@@ -269,5 +269,3 @@ This should then upload all of your packages to the repo, and you will then be a
 ## Thats It!
 
 Congratulations, you are now the proud owner of Cydia Repository. Thanks for following my tutorial. Feel free to contact me for any help, or just to say thanks.
-
-

@@ -1,21 +1,21 @@
 <package>
 	<id>io.hanyfu.minivan50</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<name>minivan50 zepplin Logo </name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.1.2</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package></package>
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
 		<description><![CDATA[
-		You can also have<br/> 
+		You can also have<br/>
 		a multi-line item.
 		]]>
 		</description>
@@ -24,11 +24,11 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
