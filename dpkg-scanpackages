@@ -290,3 +290,4 @@ if (@spuriousover) {
 }
 
 printf(STDERR _g(" Wrote %s entries to output Packages file.")."\n", $records_written) || die $!;
+
